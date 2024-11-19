@@ -1,4 +1,4 @@
-package com.tap.RegistrationApp;
+package com.tap.Registration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
