@@ -1,4 +1,4 @@
-package com.tap.Registration.entity;
+package com.tap.Registration.Entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
