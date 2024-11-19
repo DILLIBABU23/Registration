@@ -27,11 +27,11 @@ Software Requirements:
 
 **API Endpoints**
 
-1. POST	     /api/registrations	       --->    Create a new registration
-2. GET	     /api/registrations	       --->    Get all registrations
-3. GET	     /api/registrations/{id}   --->	  Get registration by ID
-4. PUT	     /api/registrations/{id}   --->	  Update registration by ID
-5. DELETE	  /api/registrations/{id}   --->	  Delete registration by ID
+1. POST	-     /api/registrations	       --->    Create a new registration
+2. GET	-     /api/registrations	       --->    Get all registrations
+3. GET	-     /api/registrations/{id}   --->	  Get registration by ID
+4. PUT	 -    /api/registrations/{id}   --->	  Update registration by ID
+5. DELETE -	  /api/registrations/{id}   --->	  Delete registration by ID
 
 
 This project is bluit with these :
